@@ -18,3 +18,6 @@ This project aids in Bee status identification. For that  the Bee image dataset 
 
 ### Result:
 ![image](https://user-images.githubusercontent.com/67763094/123919826-a0684d80-d985-11eb-8613-a64ddd139bc8.png)
+
+
+The result shows the classification accuracy for each of the classes. The advantages and disadvantages of employing transfer learning for such tasks has been discussed in detail in the project.  
