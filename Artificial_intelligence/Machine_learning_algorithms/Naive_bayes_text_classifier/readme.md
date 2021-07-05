@@ -9,6 +9,11 @@ The dataset consists of 20 classes as follows and 1000 text files for each of th
 
 ## Training
 The classifier is trained on 3600 text files belonging to 4 classes. (900 files per class)
+ - 'talk.politics.misc'
+ - 'sci.crypt'
+ - 'rec.sport.hockey'
+ - 'comp.windows.x'
+
 
 
 ## Testing
