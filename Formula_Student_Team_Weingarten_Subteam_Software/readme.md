@@ -1,2 +1,2 @@
 
-/home/adisaba/Desktop/giphy.gif
+![gif](/home/adisaba/Desktop/giphy.gif)
