@@ -23,3 +23,7 @@ The classifier is trained on 3600 text files belonging to 4 classes. (900 files 
 
 ![image](https://user-images.githubusercontent.com/67763094/124461089-80bf9380-dd90-11eb-95f1-f0092e71411c.png)
 
+
+
+## Result:
+We obtain the classification result for each of the 400 text files.
