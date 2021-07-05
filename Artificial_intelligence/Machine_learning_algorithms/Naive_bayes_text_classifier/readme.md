@@ -18,5 +18,8 @@ The classifier is trained on 3600 text files belonging to 4 classes. (900 files 
 
 ## Testing
 
+100 files files from each of the class were used for testing (100 files * 4 classes = 400 text files).
+
+
 ![image](https://user-images.githubusercontent.com/67763094/124461089-80bf9380-dd90-11eb-95f1-f0092e71411c.png)
 
