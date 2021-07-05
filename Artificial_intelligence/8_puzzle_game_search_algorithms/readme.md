@@ -16,9 +16,11 @@ The A- star algorithm was able to solve upto depth level 31 (31 moves to reach g
 
 #### A- star output:
 Goal node: 
+
 ![image](https://user-images.githubusercontent.com/67763094/124459590-92a03700-dd8e-11eb-9f41-2404e7ad3a08.png)
 
 
 Start node:
+
 ![image](https://user-images.githubusercontent.com/67763094/124459618-99c74500-dd8e-11eb-856f-745ec352553f.png)
 
