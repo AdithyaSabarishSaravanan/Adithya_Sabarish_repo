@@ -5,6 +5,6 @@
 
 
 
-Implementation different search algorithms:
+__Different search algorithms such as Breadth first search, Depth first search, Iterative deepening and A-star algorithms were implemented.__
 
-A-star based heuristic approach is proven to be the best for the 8 puzzle game.
+A-star based heuristic approach is proven to be the best for the 8 puzzle game and was able to solve upto depth level 31 (31 moves to reach goal state).
