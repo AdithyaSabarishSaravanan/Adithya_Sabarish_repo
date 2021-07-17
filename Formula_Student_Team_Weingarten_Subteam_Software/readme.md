@@ -1,11 +1,11 @@
 
-# My position in the FOrmula Student Team Weingarten - 
+# My position in the Formula Student Team Weingarten - 
 
-- Software subteam leader
-- Deputy vice captain for the Drivewrless vehicle.
+- Software team leader
+- Deputy vice captain for the Driverless vehicle.
 
 
-# My contributions for the Drivberless vehicle are:
+# My contributions for the Drivberless vehicle:
 
 ## Research on Sensor Fusion
 
