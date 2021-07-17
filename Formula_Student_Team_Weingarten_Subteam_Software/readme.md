@@ -7,9 +7,12 @@
 
 # My contributions for the Drivberless vehicle:
 
-## Research on Sensor Fusion
+## Sensor Fusion
 
-Sensors used for the Driverless vehicle
+Sensors used in the Driverless vehicle
+
+- 2 IDS Cameras
+- 1 Velodyne VLP-HiRes Lidar
 
 
 ## Path planning
